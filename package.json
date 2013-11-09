@@ -1,0 +1,19 @@
+{
+  "name"         : "naked-db",
+  "main"         : "./naked-db.js",
+  "version"      : "0.1.0",
+  "homepage"     : "https://github.com/alexeypetrushin/naked-db",
+  "dependencies" : {
+    "underscore" : "1.5.x"
+  },
+  "developmentDependencies" : {
+    "chai" : "1.8.x"
+  },
+  "description"  : "Persistence for Transactional Memory for JavaScript",
+  "keywords"     : ["Model", "Data", "Memory", "Database"],
+  "author"       : {
+    "name" : "Alexey Petrushin",
+    "url"  : "http://petrush.in"
+  },
+  "license"      : "MIT"
+}
